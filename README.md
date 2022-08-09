@@ -25,5 +25,5 @@ Gherkin (DSL)
 Versioning
 Git is used for version control.
 
-What the application is testing
+# What the application is testing
 For the user history, validations and verifications will be carried out where the user can search for the product "Iphone 11" in PlazaVea, and add it to the shopping cart.
