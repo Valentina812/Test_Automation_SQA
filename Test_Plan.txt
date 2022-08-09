@@ -1,0 +1,104 @@
+TEST PLAN SQA-CHALLENGE
+
+HU: Agregar un producto en la página Plaza Vea
+ALCANCE: Para la historia de usuario se realizarán las validaciones y verificaciones donde el usuario pueda buscar el producto "Iphone 11" en PlazaVea, y se agregue al carrito de compras.
+ 
+Se verificará: 
+ 
+* Se visualicen el campo de búsqueda.
+* Se visualice el producto.
+* Se visualice la disponibilidad del producto.
+
+Se validará: 
+ 
+* Permita el correcto ingreso a la página.
+* Se habilite la opción de anexo al carrito.
+* Se pueda seleccionar el producto.
+ 
+ 
+ESTRATEGIA: Se realizarán escenarios automatizados los cuales estarán enfocados en la ejecución exitosa del ingreso a la pagina de PlazaVea, el cual se verificara que se pueda seleccionar para poderlo anexar el producto al carrito de compras, por ultimo, se validara el estado del producto.
+ 
+CRITERIOS DE DEVOLUCIÓN 
+ 
+* Si el portal web no carga sus componentes.
+* Si no se habilitan todos los productos.
+ 
+CRITERIOS DE ACEPTACIÓN 
+
+* Si portal web permita continuar con el ingreso.
+* Si se visualiza los componentes de la aplicación.
+
+FUERA DEL ALCANCE 
+ 
+* No se validará el funcionamiento en dispositivos móviles ni en navegadores diferentes a Google Chrome. 
+* No se validarán otras funcionalidades que no se encuentren descritas en cada uno de los alcances. 
+ 
+PRERREQUISITOS 
+ 
+* Cada uno de los componentes de la página debe cargar todos sus componentes. 
+* Acceso al navegador web Google Chrome. 
+* Actualización del navegador web. 
+
+SUPUESTOS Y LIMITACIONES 
+ 
+* Operaciones actualizadas para la ejecución de la prueba.
+* El proceso de pruebas no debe contar con restricciones para su realización. 
+  
+DATOS E INFRAESTRUCTURA 
+ 
+* Disponibilidad en la conexión a la red.  
+
+Nombre: Valentina Ramirez Grajales
+Rol:Automation Test Engineer
+
+********************************************************************************************
+HU: Add a product on the Plaza Vea page
+SCOPE: For the user history, validations and verifications will be carried out where the user can search for the product "Iphone 11" in PlazaVea, and add it to the shopping cart.
+ 
+It will be verified:
+ 
+* The search field is displayed.
+* The product is displayed.
+* Product availability is displayed.
+
+It will be validated:
+ 
+* Allow correct entry to the page.
+* The option to add to the cart is enabled.
+* Product can be selected.
+ 
+ 
+STRATEGY: Automated scenarios will be carried out which will be focused on the successful execution of the entry to the PlazaVea page, which will verify that it can be selected to be able to attach the product to the shopping cart, finally, the status of the product will be validated.
+ 
+RETURN CRITERIA
+ 
+* If the web portal does not load its components.
+* If not all products are enabled.
+ 
+CRITERIA OF ACCEPTANCE
+
+* If the web portal allows you to continue with the income.
+* If the components of the application are displayed.
+
+OUT OF RANGE
+ 
+* Operation on mobile devices or browsers other than Google Chrome will not be validated.
+* Other functionalities that are not described in each of the scopes will not be validated.
+ 
+PREREQUISITES
+ 
+* Each of the components of the page must load all its components.
+* Access to Google Chrome web browser.
+* Web browser update.
+
+ASSUMPTIONS AND LIMITATIONS
+ 
+* Updated operations for test execution.
+* The testing process should not have restrictions for its implementation.
+  
+DATA AND INFRASTRUCTURE
+ 
+* Availability in connection to the network.
+
+Name: Valentina Ramirez Grajales
+Role: Automation Test Engineer
