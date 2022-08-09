@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="As a user I want to add a product to the shopping cart" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-09T05:05:30" hostname="VALENTINA" time="44.479">
+  <properties/>
+  <testcase name="User add a product to the shopping cart" classname="As a user I want to add a product to the shopping cart" time="44.479"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ago 09, 2022 12:05:30 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 103.0.5060.53 (a1711811edd74ff1cf2150f36ffa3b0dae40b17f-refs/branch-heads/5060@{#853}) on port 31993
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ago 09, 2022 12:05:33 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
